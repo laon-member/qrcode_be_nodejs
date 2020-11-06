@@ -24,11 +24,11 @@ app.use(upload.array());
 const port = 7000;
 
 const connection = mysql.createConnection({
-  host: "hong4383.r-e.kr",
-  user: "piction",
-  password: "Laonpp00..L",
-  port: "3306",
-  database: "newQR",
+  host: "",
+  user: "",
+  password: "",
+  port: "",
+  database: "",
 });
 
 function handleDisconnect() {
