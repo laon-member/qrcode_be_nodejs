@@ -1,0 +1,9 @@
+{
+    "development" : {
+        "host" : "hong4383.r-e.kr",
+        "user" : "piction",
+        "password" : "Laonpp00..L",
+        "port" : "3306",
+        "database" : "newQR"
+    }
+}
